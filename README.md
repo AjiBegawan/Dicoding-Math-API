@@ -13,7 +13,7 @@ This project showcases the TDD workflow to create a secure and efficient Math AP
 
 ## Visual Confirmation
 
-![Math API test results passing successfully](?raw=true)
+![Math API test results passing successfully](https://github.com/AjiBegawan/Dicoding-Math-API/blob/main/images/Math%20API%20Results.png?raw=true)
 
 ## Technology Stack
 Backend: Node.js
